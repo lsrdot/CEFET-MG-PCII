@@ -1,0 +1,43 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "calcMain.App",
+            "projectName": "Calculadora_5747e501"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "calcMain.App",
+            "projectName": "Calculadora_20463e22"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "calcMain.App",
+            "projectName": "Calculadora_7ba9196b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-16/lib\" --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "Calculadora_7ba9196b"
+        }
+    ]
+}

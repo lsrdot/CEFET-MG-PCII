@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #222;
+    -fx-background-radius: 28;
+}
+
+.mainPane {
+    -fx-background-color: linear-gradient(to bottom right, #3aa49a, #53c396);
+    -fx-background-radius: 15 15 25 25;
+}
+
+.visor{
+  -fx-background-color: #00000025;
+  -fx-background-radius: 15;
+}
+
+.elements {
+    -fx-background-color: #00000025;
+    -fx-background-radius: 15;
+}
+
+.elements:hover {
+  -fx-background-color: #00000050;
+  -fx-border-color: white;
+  -fx-border-radius: 15;
+  -fx-border-width: 3px;  
+  -fx-scale-x: 1.2px;
+  -fx-scale-y: 1.2px;
+}
+
+.elements:hover Label{
+  -fx-text-fill: white;
+}
+
+Label {
+  -fx-text-fill: rgba(255, 255, 255, 0.623);
+}
+
+#visorResultado{
+  -fx-text-fill: white;
+}
