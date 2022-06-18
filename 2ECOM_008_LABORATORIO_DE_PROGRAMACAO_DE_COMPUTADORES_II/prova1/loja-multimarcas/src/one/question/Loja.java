@@ -1,6 +1,5 @@
 /*
     Alunos: Lucas Siqueira Ribeiro, Pedro Costa Calazans.
-    Matricula: 20203018919, 20203018697.
 */
 
 package one.question;
