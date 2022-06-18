@@ -1,5 +1,4 @@
 // Aluno: Lucas Siqueira Ribeiro, Pedro Costa Calazans.
-// Matrícula: 20203018919, 20203018697.
 // 2ECOM.008 - LABORATÓRIO DE PROGRAMAÇÃO DE COMPUTADORES II
 
 public class Relogio {
