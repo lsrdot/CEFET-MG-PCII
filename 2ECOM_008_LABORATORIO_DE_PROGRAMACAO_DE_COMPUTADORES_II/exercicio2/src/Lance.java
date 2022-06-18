@@ -1,6 +1,5 @@
 /*
         Nomes: Lucas Siqueira Ribeiro, Pedro Costa Calazans.
-        Matrículas: 20203018919, 20203018697.
  */
 
 public class Lance {
