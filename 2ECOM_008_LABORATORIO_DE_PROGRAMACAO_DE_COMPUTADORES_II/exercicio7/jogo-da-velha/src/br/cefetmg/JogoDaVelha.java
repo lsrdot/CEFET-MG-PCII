@@ -14,7 +14,6 @@ import java.util.Random;
  * @author Lucas Siqueira Ribeiro - https://github.com/lucasdot
  * @author Pedro Costa Calazans - https://github.com/pedrocostacalazans
  *
- * Matriculas: 20203018919, 20203018697.
  *
  * @version 1.0
  */
