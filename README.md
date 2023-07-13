@@ -1,6 +1,6 @@
 # CEFET-MG
 
-## Atividades desenvolvidas durante o curso de Programação de Computadores II no CEFET-MG
+## Atividades práticas desenvolvidas durante o curso de Programação de Computadores II no CEFET-MG
 
 * **Objetivos do curso**: conhecer e saber utilizar os conceitos de programação orientada a objetos.
 * **Ementa**: conceitos de orientação a objetos (tipos abstratos de dados, objetos, classes, métodos,
